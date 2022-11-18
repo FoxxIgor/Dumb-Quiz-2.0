@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.button{
+    background-color: rgb(133, 66, 45);
+    color:rgb(68, 36, 21);
+    border-radius: 5px;
+    border-color: rgb(77, 38, 16);
+    height: 100px;
+    width: 200px;
+    font-size: 50px;
+    margin-right:80px ;
+}
+#textGameOver{
+    color: red;
+    font-size: 100px;
+}
+#textarea{
+    background-color: rgb(126, 66, 47);
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#checkbox{
+    margin-top: 23px;
+    margin-left:600px;
+}
+#message{
+    margin-right: 700px;
+   
+}
